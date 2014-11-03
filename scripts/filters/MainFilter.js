@@ -16,5 +16,5 @@
     // This helps aid with readability and helps reduced the amount of code "wrapped"
     // inside Angular.
     angular.module('app')
-    .filter('startsWithTheLetterA', startsWithTheLetterA)
+    .filter('startsWithTheLetterA', startsWithTheLetterA);
 })();
